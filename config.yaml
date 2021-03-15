@@ -1,0 +1,7 @@
+commands:
+  - commandname: "discord"
+    weburl: "http://discord.dvtserver.xyz/"
+    description: "Enter to this discord to be more special :)"
+  - commandname: "youtube"
+    weburl: "https://www.youtube.com/"
+    description: "Hey what's up homie?"
