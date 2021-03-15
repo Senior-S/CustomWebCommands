@@ -4,7 +4,7 @@ using Cysharp.Threading.Tasks;
 using OpenMod.Unturned.Plugins;
 using OpenMod.API.Plugins;
 
-[assembly: PluginMetadata("SS.CustomWebCommands", DisplayName = "CustomWebCommands")]
+[assembly: PluginMetadata("SS.CustomWebCommands", Author = "Senior S", DisplayName = "CustomWebCommands", Website = "http://discord.dvtserver.xyz/")]
 namespace CustomWebCommands
 {
     public class CustomWebCommands : OpenModUnturnedPlugin
